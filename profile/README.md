@@ -16,4 +16,4 @@ We think robot security gets better when the tools are open: the command line, t
 the local scan UI and the runner are open source under the Apache License 2.0. Contributions, issues and
 ideas are welcome - and please report security problems privately.
 
-<!-- LINKS: website, socials -->
+You can find us at [glitchedlabs.com](https://glitchedlabs.com/) or [hello@glitchedlabs.com](mailto:hello@glitchedlabs.com).
